@@ -7,7 +7,6 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on the Di
 - Orders Dataset <a href="https://github.com/sayaniketsaini24/Diwali-Sales-Analysis-using-Python/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
 
 ## **Project Description:**
-
 In this project, we perform Exploratory Data Analysis (EDA) on the Diwali Sales dataset using Python. Key steps include:
 
 - Data Cleaning and Manipulation to prepare the dataset.
